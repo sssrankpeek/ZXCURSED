@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\росен\source\repos\kursed\kursed\Source.c(256,12): warning C4098: file: функция типа "void", возвращающая значение
+C:\Users\росен\source\repos\kursed\kursed\Source.c(273,12): warning C4098: file: функция типа "void", возвращающая значение
+  kursed.vcxproj -> C:\Users\росен\source\repos\kursed\x64\Debug\kursed.exe
